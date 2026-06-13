@@ -3,7 +3,7 @@
 > **"Humans steer, agents execute."**
 > Harness Engineering 不是让 AI 更聪明，而是让 AI 在严格的工程约束下稳定、可预测地执行。
 
-一个 QoderWork Skill，为 Python 项目提供 agent 友好的工程化框架：六层架构、依赖方向强制、质量门禁、三级测试脚手架，一条命令搭建完整项目。
+一个 Skill，为 Python 项目提供 agent 友好的工程化框架：六层架构、依赖方向强制、质量门禁、三级测试脚手架，一条命令搭建完整项目。
 
 ---
 
