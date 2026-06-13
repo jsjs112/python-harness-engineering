@@ -184,17 +184,7 @@ python-harness-engineering/
     └── harness_init.py         # 项目脚手架
 ```
 
-## 进化历程
 
-本项目经过达尔文 Skill（[darwin-skill](https://github.com/alchaincyf/darwin-skill)）方法论的 8 维评估和棘轮进化：
-
-| 阶段 | Darwin 评分 | 主要改进 |
-|------|-----------|---------|
-| Baseline | 62/100 | 原始版本 |
-| Round 1 | 89/100 | Frontmatter 结构化、指令具体化、冗余消除、检查点决策树 |
-| Round 2 | 95/100 | conftest 四级模板、harness_init 脚手架、Checkpoint Recovery 集成 |
-
-棘轮机制：**分数没涨就回滚，只保留有改进的修改。**
 
 ## 适用场景
 
